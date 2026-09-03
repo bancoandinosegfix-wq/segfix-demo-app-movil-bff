@@ -1,0 +1,13 @@
+{
+  "name": "app-movil-bff",
+  "version": "3.0.1",
+  "description": "Backend-for-frontend de la app m\u00f3vil del banco",
+  "dependencies": {
+    "express": "4.16.0",
+    "moment": "2.29.1",
+    "marked": "0.3.6",
+    "jsonwebtoken": "8.5.1",
+    "ws": "5.2.0",
+    "y18n": "4.0.0"
+  }
+}
